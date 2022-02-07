@@ -4,8 +4,6 @@ description: "I'm Erfan Mousavi, and if you want to know more about me fallow my
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "merfan595@gmail.com"
-twitter_username: "twitteruser"
 github_username: "Erfang22"
 
 #########################################################################################
@@ -13,7 +11,7 @@ github_username: "Erfang22"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
