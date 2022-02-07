@@ -10,6 +10,12 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
+### Some bash Code
+
+```bash
+echo "Hi"
+```
+
 #### Some T-SQL Code
 
 ```tsql
