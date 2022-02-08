@@ -13,10 +13,15 @@ distro does not mean that way.Distro is a flavor of the GNU/Linux kernel.(for mo
 If i want to say that which linux distros are best for begginers, this is my list :
 
 1.Mint 
+
 2.Ubuntu
+
 3.EndeavourOS
+
 4.Pop!_OS
+
 5.KDE neon
+
 6.Arch Linux (for someone who wants to learn linux)
 
 you can go and search about them yourself and for the next post Im going to cover the whole Arch Linux install and after that i will go for the desktop, cuz Arch Linux
